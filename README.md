@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinseyvo" alt="kinseyvo" /></a> </p>
 
-- 🔭 I’m currently working on **a website lore for the homies!**
+- ✏️ I'm pursuing a Master of Science in Software Engineering at CSUF this fall.
+
+- 🎓 Bachelor of Science in Computer Science at CSUF
 
 - 🌱 I’m currently learning **Svelte and Next.js.**
 
