@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **a website lore for the homies!**
 
-- 🌱 I’m currently learning **Svelte.**
+- 🌱 I’m currently learning **Svelte and Next.js.**
 
-- 👯 I’m looking to collaborate on **web applications.**
+- 👯 I’m looking to collaborate on **more projects, such as web applications.**
 
-- 🤝 I’m looking for help with **learning more about web and app development!**
+- 🤝 I’m looking for help with **learning more about back-end development!**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kinsey-vos-projects.vercel.app/](https://portfolio-kinsey-vos-projects.vercel.app/)
 
