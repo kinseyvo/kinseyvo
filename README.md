@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinseyvo" alt="kinseyvo" /></a> </p>
 
-- ✏️ I'm pursuing a Master of Science in Software Engineering at CSUF this fall.
+- ✏️ I'm currently pursuing a Master of Science in Software Engineering at CSUF.
 
 - 🎓 Bachelor of Science in Computer Science at CSUF
 
